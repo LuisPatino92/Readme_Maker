@@ -1,0 +1,1 @@
+This script allow peers from C13 to automate README creation for main projects of Holberton Foundations.
